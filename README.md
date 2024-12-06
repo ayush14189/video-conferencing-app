@@ -42,13 +42,3 @@ Welcome to the Video Conferencing App! This application allows users to easily h
   <br />
 
 ![](screenshots/Mobile%20View.jpg)
-
-<!-- CONTACT -->
-
-## Contact
-
-Gmail - [@Gmail](ayushjain.official07@gmail.com)
-
-Twitter - [@Twitter](https://x.com/ayush_14189)
-
-Project Link: [https://github.com/ayush14189/video-conferencing-app](https://github.com/ayush14189/video-conferencing-app)
